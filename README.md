@@ -1,1 +1,3 @@
-# Supply Chain Optimizaion System using Blockchain, AI and IoT
+# Supply Chain Optimization System using Blockchain, AI and IoT
+
+## Overview
