@@ -1,3 +1,3 @@
-# Supply Chain Optimization System using Blockchain, AI and IoT
+# Supply Chain Optimization System using Angular, Spring, Blockchain, AI and IoT
 
 ## Overview
