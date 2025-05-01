@@ -5,7 +5,7 @@
 A cutting-edge, end-to-end Supply Chain Optimization System leveraging Angular, Spring Boot, Blockchain, Artificial Intelligence, and IoT to ensure transparency, efficiency, and real-time decision-making across the logistics and inventory lifecycle.
 
 ## 🌐 Features
-- 🔍 Real-time Inventory Tracking via IoT sensors
+- 🔍 Real-time Inventory Tracking via IoT sensor
 - 🔗 Blockchain-based Ledger for secure and immutable transactions
 - 🤖 AI-Powered Forecasting for demand prediction and route optimization
 - 📊 Interactive Dashboard built with Angular for visualizing supply chain metrics
