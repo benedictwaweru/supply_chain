@@ -1,6 +1,6 @@
 # 🔐 Security Policy
 
-## Supported Versio
+## Supported Versi
 
 The following versions of this project are currently supported with security updates:
 
