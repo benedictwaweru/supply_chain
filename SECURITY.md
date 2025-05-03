@@ -1,6 +1,6 @@
 # 🔐 Security Policy
 
-## Suppor
+## Suppo
 
 The following versions of this project are currently supported with security updates:
 
